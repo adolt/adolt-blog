@@ -11,7 +11,7 @@
 - Express（后端框架）
 - MongoDB（数据库）
 - Ejs（服务器端渲染模板引擎）
-- Sementic-UI(UI库)
+- Sementic-UI（UI库）
 - jQuery
 
 ## 线上地址
